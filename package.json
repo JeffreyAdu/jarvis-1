@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "prebuild": "chmod +x node_modules/.bin/nuxt",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "start": "nuxt start",
