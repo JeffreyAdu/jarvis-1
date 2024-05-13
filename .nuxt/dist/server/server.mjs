@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/hp/OneDrive/Desktop/ZTM/ChatBot/jarvis/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
